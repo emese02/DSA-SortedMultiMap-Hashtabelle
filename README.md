@@ -1,2 +1,2 @@
-# DSA-SortedMultiMap-Hashtabelle
-DSA
+# Datenstrukturen und Algorithmen - SortedMultiMap - Hashtabelle
+ADT SortedMultiMap – repräsentiert mithilfe einer Hashtabelle mit offener Adressierung, mit quadratischem Sondieren, wo Paaren der Form (key, value) gespeichert werden. Wenn ein Schlüssel mehrere entsprechende Werte hat, dann kommt es in mehreren Paaren vor. In dem Constructor des Iterators erstelle ein sortiertes Array von Elementen und benutze es für die Iterierung.
